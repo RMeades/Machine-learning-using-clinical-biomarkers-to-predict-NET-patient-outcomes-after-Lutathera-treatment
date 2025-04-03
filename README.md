@@ -3,4 +3,5 @@ Prognostic stratification of patients with advanced neuroendocrine tumours recei
 
 The same investigative methodology is applied to predicitng Progression Free Survival (PFS) and Time to Treatment Failure (TTF) seperately which are available in two seperate Jupyter notebooks.
 
-This work has been submitted for presentation at the European Association of Nuclear Medicine 2024 Annual Congress (EANM24).
+This work was presented at the European Association of Nuclear Medicine 2024 Annual Congress (EANM24)
+[Meades R, Navalkissoor S, Gnanasegaran G, Caplin M, McCool D. Machine Learning Using Baseline Clinical Biomarkers for the Prognostic Stratification of Patients with Neuroendocrine Tumours Teceiving 177 Lu oxodotreotide Therapy. InEUROPEAN JOURNAL OF NUCLEAR MEDICINE AND MOLECULAR IMAGING 2024 Sep 1 (Vol. 51, pp. S786-S786). SPRINGER.](https://link.springer.com/article/10.1007/s00259-024-06838-z)
